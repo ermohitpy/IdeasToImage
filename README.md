@@ -17,4 +17,5 @@ Login
 
 Dashboard
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/80814292/235141705-cac390f7-558e-4507-a7b2-179d7ccd29d7.png)
-![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/80814292/235141741-a6c18f77-8396-4519-883d-b4e761cdb3cc.png)
+
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/80814292/235142005-c684b08d-4289-4add-99b0-f67e56030dab.png)
